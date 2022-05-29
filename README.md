@@ -1,4 +1,7 @@
-##                                                            👋Hi, I am Surya! glad to see you here 
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+<!-- ## 👋Hi, I am Surya! glad to see you here  -->
+<h1 align="center">Hi, I'm Talari Suryakanthrai<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <!--
 **suryakanthrai/suryakanthrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
