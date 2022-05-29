@@ -36,7 +36,7 @@ A Software🌈 Web developer🎯 from India. I'm passionate about Full-Stack Web
 
 
 ## 🤝 Connect with me:
-<a href="linkedin.com/in/talari-suryakanthrai-0352b3190"><img align="left" src="images/link.png" alt="surya" width="42px"/></a>
+<a href="https://linkedin.com/in/talari-suryakanthrai-0352b3190"><img align="left" src="images/link.png" alt="surya" width="42px"/></a>
 <a href="https://twitter.com/TSuryakanthrai"><img align="left" src="images/twitter.png" alt="surya" width="42px"/></a>
 <a href="https://www.instagram.com/talarisuryakanthrai/"><img align="left" src="images/instagram.png" alt="surya" width="42px"/></a>
 <!--
