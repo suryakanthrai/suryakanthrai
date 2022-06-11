@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <!-- ## 👋Hi, I am Surya! glad to see you here  -->
-<h1 align="center">Hi, I'm Talari Suryakanthrai<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center">Hi, I'm Talari Suryakanthrai<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="30px"> ! </h1>
 
 A Software🌈 Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps.
 
