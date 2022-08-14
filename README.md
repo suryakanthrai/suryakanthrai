@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 
 <!-- ## 👋Hi, I am Surya! glad to see you here  -->
 <h1 align="center">Hi, I'm Talari Suryakanthrai<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="30px"> ! </h1>
